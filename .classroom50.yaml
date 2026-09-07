@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "indprog"
+assignment: "02-conveyor-belt"
+owner:
+  username: "TheaDtu"
+  id: 322882704
+  accepted_at: "2026-09-07T14:55:29Z"
+source:
+  owner: "indprog"
+  owner_id: 316953525
+  repo: "python-template"
+  branch: "main"
